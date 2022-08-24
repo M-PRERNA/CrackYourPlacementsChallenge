@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 /************************************************************
-
+// width of a binary tree
     Following is the TreeNode class structure
 
     template <typename T>
